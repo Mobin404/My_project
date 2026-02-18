@@ -1,85 +1,170 @@
-Book,Year
-Python Cookbook,2002
-Fluent Python,2015
-Core Python Programming,2016
-Black Hat Python,2014
-Think Python,2009
-Python,2017
-Python For Data Analysis,2012
-Automate the Boring Stuff with Python,2015
-"Python Crash Course, 3rd Edition",2022
-Introduction to Machine Learning with Python,2016
-Data science from scratch,2015
-Core Python programming,2006
-"Python Crash Course, 2nd Edition",2019
-Python crash course,2015
-The Hidden Oracle,2016
-Python,2001
-Python Data Science Handbook,2016
-Practical Statistics for Data Scientists: 50 Essential Concepts,2017
-Python Playground,2015
-The Burning Maze,2018
-My Favorite Animal,2014
-Python Basics,2021
-Data Science,2022
-Python,2016
-Head First Python,2010
-Beginning Python,2010
-Python Distilled,2021
-Python Programming,2019
-Django for Beginners,2018
-Python for Everybody,2016
-Effective Python,2015
-Pythons' Autobiography by the Pythons,2003
-Python for dummies,2006
-Python,2018
-Python Basics,2019
-Garden Planting Weekly,2022
-Starting out with Python,2008
-Deep Learning with Python,2017
-Data Structures and Algorithms in Python,2012
-Python in a Nutshell,2002
-PYTHON Exercises,2021
-Python programming,2003
-Let Us Python,2019
-Python for Kids,2012
-Python machine learning,2015
-Python,2021
-Python for Geeks,2021
-Intro to Python,2020
-Python Programming Crash Course,2022
-Python Programming,2019
-Python All-in-One For Dummies,2019
-Python for Beginners : 2 Books in 1,2021
-Introduction To Computation And Programming Using Python,2013
-Python Programming,2016
-Python Algorithms,2010
-Python 201,2016
-Python Programming,2017
-Starting Out with Python,2020
-Python,2008
-Understanding coding with Python,2016
-Django for Professionals,2019
-Python Tricks: A Buffet of Awesome Python Features,2017
-Michael Palin Diaries 1969-1979,2006
-Python scripts for Abaqus,2011
-Programming for Beginners : This Book Includes,2020
-Python for bioinformatics,2009
-Python for Finance: Analyze Big Financial Data,2014
-Python,2021
-Python,2013
-Password Book,2021
-Curso Intensivo de Python,2016
-Fundamentals of Python Programming,2018
-Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaw's Hard Way Series),2017
-Foundations of Python network programming,2004
-Introducing Python,2013
-Python,2013
-Dive into Python,2004
-Python 3,2016
-Python : Programming,2017
-Python for Data & Analytics,2022
-Python programming in context,2009
-Python,2015
-Learn Python,2017
-Elements of programming interviews in Python,2017
+Book,Year,Author
+
+Python Cookbook,2002,"['Alex Martelli', 'David Ascher', 'David M. Beazley', 'Brian K. Jones']"
+
+Fluent Python,2015,['Luciano Ramalho']
+
+Core Python Programming,2016,['R. Nageswara Rao']
+
+Black Hat Python,2014,"['Justin Seitz', 'Tim Arnold']"
+
+Think Python,2009,"['Allen B. Downey', 'Allen Downey']"
+
+Python,2017,['Joshua Welsh']
+
+Python For Data Analysis,2012,['Wes McKinney']
+
+Automate the Boring Stuff with Python,2015,['Al Sweigart']
+
+"Python Crash Course, 3rd Edition",2022,['Eric Matthes']
+
+Introduction to Machine Learning with Python,2016,"['Andreas C. Mueller', 'Sarah Guido']"
+
+Data science from scratch,2015,['Joel Grus']
+
+Core Python programming,2006,['Wesley Chun']
+
+"Python Crash Course, 2nd Edition",2019,['Eric Matthes']
+
+Python crash course,2015,['Eric Matthes']
+
+The Hidden Oracle,2016,['Rick Riordan']
+
+Python,2001,['Martin C. Brown']
+
+Python Data Science Handbook,2016,['Jake VanderPlas']
+
+Practical Statistics for Data Scientists: 50 Essential Concepts,2017,"['Peter Bruce', 'Andrew Bruce', 'Peter Gedeck']"
+
+Python Playground,2015,['Mahesh Venkitachalam']
+
+The Burning Maze,2018,['Rick Riordan']
+
+My Favorite Animal,2014,['Victoria Marcos']
+
+Python Basics,2021,"['David Amos', 'Dan Bader', 'Joanna Jablonski', 'Fletcher Heisler']"
+
+Data Science,2022,"['Tiffany-Anne Timbers', 'Trevor Campbell', 'Melissa Lee']"
+
+Python,2016,['Byron Francis']
+
+Head First Python,2010,['Paul Barry']
+
+Beginning Python,2010,['James R. Payne']
+
+Python Distilled,2021,['David M. Beazley']
+
+Python Programming,2019,['Reema Thareja']
+
+Django for Beginners,2018,['William S. Vincent']
+
+Python for Everybody,2016,['Dr. Charles Russell Severance']
+
+Effective Python,2015,['Brett Slatkin']
+
+Pythons' Autobiography by the Pythons,2003,"['Monty Python', 'Graham Chapman', 'John Cleese', 'Terry Gilliam', 'Eric Idle', 'Terry Jones', 'Michael Palin', 'et al', 'Bob McCabe']"
+
+Python for dummies,2006,"['Stef Maruch', 'Aahz Maruch']"
+
+Python,2018,['Martin Evans']
+
+Python Basics,2019,
+
+Garden Planting Weekly,2022,['Yoshiko TOLBERT']
+
+Starting out with Python,2008,['Tony Gaddis']
+
+Deep Learning with Python,2017,['Francois Chollet']
+
+Data Structures and Algorithms in Python,2012,"['Michael T. Goodrich', 'Roberto Tamassia', 'Michael H Goldwasser']"
+
+Python in a Nutshell,2002,"['Alex Martelli', 'Anna Ravenscroft', 'Steve Holden']"
+
+PYTHON Exercises,2021,['Ray Yao']
+
+Python programming,2003,['John M. Zelle']
+
+Let Us Python,2019,['Yashavant Kanetkar']
+
+Python for Kids,2012,['Jason R. Briggs']
+
+Python machine learning,2015,['Sebastian Raschka']
+
+Python,2021,['Andy Vickler']
+
+Python for Geeks,2021,['Muhammad Asif']
+
+Intro to Python,2020,['Programming For Scientists']
+
+Python Programming Crash Course,2022,['Alex Jaxson']
+
+Python Programming,2019,['Sarah Stewart']
+
+Python All-in-One For Dummies,2019,"['John Shovic', 'Alan Simpson']"
+
+Python for Beginners : 2 Books in 1,2021,['Programming Languages ACADEMY']
+
+Introduction To Computation And Programming Using Python,2013,['John Guttag']
+
+Python Programming,2016,['Adam Stewart']
+
+Python Algorithms,2010,['Magnus Lie Hetland']
+
+Python 201,2016,['Michael Driscoll']
+
+Python Programming,2017,"['Naveen ,Kumar and Taneja Sheetal']"
+
+Starting Out with Python,2020,['Tony Gaddis']
+
+Python,2008,['Jim Knowlton']
+
+Understanding coding with Python,2016,['Patricia Harris']
+
+Django for Professionals,2019,['William S. Vincent']
+
+Python Tricks: A Buffet of Awesome Python Features,2017,['Dan Bader']
+
+Michael Palin Diaries 1969-1979,2006,['Michael Palin']
+
+Python scripts for Abaqus,2011,['Gautam Puri']
+
+Programming for Beginners : This Book Includes,2020,['Matthew Python']
+
+Python for bioinformatics,2009,['Sebastian Bassi']
+
+Python for Finance: Analyze Big Financial Data,2014,['Yves Hilpisch']
+
+Python,2021,['Andy Vickler']
+
+Python,2013,['Christopher Cheng']
+
+Password Book,2021,['Batra BATRA RAJEEV']
+
+Curso Intensivo de Python,2016,['Eric Matthes']
+
+Fundamentals of Python Programming,2018,['Richard L. Halterman']
+
+Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaw's Hard Way Series),2017,['Zed Shaw']
+
+Foundations of Python network programming,2004,"['John Goerzen', 'Brandon Rhodes']"
+
+Introducing Python,2013,['Bill Lubanovic']
+
+Python,2013,"['Bradley N. Miller', 'David L. Ranum']"
+
+Dive into Python,2004,['Mark Pilgrim']
+
+Python 3,2016,['James R. Parker']
+
+Python : Programming,2017,"['iCode Academy', 'Python Language']"
+
+Python for Data & Analytics,2022,['Daniel Groner']
+
+Python programming in context,2009,['Bradley N. Miller']
+
+Python,2015,['Kevin Lyn']
+
+Learn Python,2017,['Xploit Hacker']
+
+Elements of programming interviews in Python,2017,['Adnan Aziz']
+

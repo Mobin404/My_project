@@ -10,7 +10,7 @@ header = data.writerow(["Book" , "Year" , "Author"])
 for book in response["docs"]:
 	title = book.get("title")
 	year = book.get("first_publish_year")
-	author = book.get("author")
+	author = book.get("author_name")
 	try:
 		if (int(year) > 2000):
 			data.writerow([title , year , author])
